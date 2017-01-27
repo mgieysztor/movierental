@@ -1,0 +1,19 @@
+{
+  "creditCards": [
+    {
+      "number": "123",
+      "money": "123323",
+      "currency": "PLN"
+    },
+    {
+      "number": "234",
+      "money": "234323",
+      "currency": "USD"
+    }
+  ],
+  "owner": {
+    "name": "Adam Kowalski",
+    "city": "Wroclaw"
+  },
+  "id": "1234"
+}

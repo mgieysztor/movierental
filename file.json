@@ -1,0 +1,21 @@
+{
+  "customer": {
+    "firstName": "Adam",
+    "lastName": "Kowalski",
+    "birthYear": 1980,
+    "idNumber": "123"
+  },
+  "startDate": "Jan 23, 2017 8:38:31 PM",
+  "endDate": "Jan 23, 2017 8:38:31 PM",
+  "movies": [
+    {
+      "title": "Terminator"
+    },
+    {
+      "title": "Matrix"
+    },
+    {
+      "title": "Forest Gump"
+    }
+  ]
+}
